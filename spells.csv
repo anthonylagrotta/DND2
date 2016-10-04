@@ -1,0 +1,404 @@
+Acid Splash,1 action,0
+Blade Ward,1 action,0
+Chill Touch,1 action,0
+Control Flames,1 action,0
+Create Bonfire,1 action,0
+Dancing Lights,1 action,0
+Druidcraft,1 action,0
+Eldritch Blast,1 action,0
+Fire Bolt,1 action,0
+Friends,1 action,0
+Frostbite,1 action,0
+Guidance,1 action,0
+Gust,1 action,0
+Light,1 action,0
+Mage Hand,1 action,0
+Magic Stone,1 bonus action,0
+Mending,1 minute,0
+Message,1 action,0
+Minor Illusion,1 action,0
+Mold Earth,1 action,0
+Poison Spray,1 action,0
+Prestidigitation,1 action,0
+Produce Flame,1 action,0
+Ray of Frost,1 action,0
+Resistance,1 action,0
+Sacred Flame,1 action,0
+Shape Water,1 action,0
+Shillelagh,1 bonus action,0
+Shocking Grasp,1 action,0
+Spare the Dying,1 action,0
+Thaumaturgy,1 action,0
+Thorn Whip,1 action,0
+Thunderclap,1 action,0
+True Strike,1 action,0
+Vicious Mockery,1 action,0
+Absorb Elements,1 reaction,1
+Alarm,1 minute,1
+Animal Friendship,1 action,1
+Armor of Agathys,1 action,1
+Arms of Hadar,1 action,1
+Bane,1 action,1
+Beast Bond,1 action,1
+Bless,1 action,1
+Burning Hands,1 action,1
+Catapult,1 action,1
+Charm Person,1 action,1
+Chromatic Orb,1 action,1
+Color Spray,1 action,1
+Command,1 action,1
+Compelled Duel,1 bonus action,1
+Comprehend Languages,1 action,1
+Create or Destroy Water,1 action,1
+Cure Wounds,1 action,1
+Detect Evil and Good,1 action,1
+Detect Magic,1 action,1
+Detect Poison and Disease,1 action,1
+Disguise Self,1 action,1
+Dissonant Whispers,1 action,1
+Divine Favor,1 bonus action,1
+Earth Tremor,1 action,1
+Ensnaring Strike,1 bonus action,1
+Entangle,1 action,1
+Expeditious Retreat,1 bonus action,1
+Faerie Fire,1 action,1
+False Life,1 action,1
+Feather Fall,1 reaction,1
+Find Familiar,1 hour,1
+Fog Cloud,1 action,1
+Goodberry,1 action,1
+Grease,1 action,1
+Guiding Bolt,1 action,1
+Hail of Thorns,1 bonus action,1
+Healing Word,1 bonus action,1
+Hellish Rebuke,1 reaction,1
+Heroism,1 action,1
+Hex,1 bonus action,1
+Hunter's Mark,1 bonus action,1
+Ice Knife,1 action,1
+Identify,1 minute,1
+Illusory Script,1 minute,1
+Inflict Wounds,1 action,1
+Jump,1 action,1
+Longstrider,1 action,1
+Mage Armor,1 action,1
+Magic Missile,1 action,1
+Protection from Evil and Good,1 action,1
+Purify Food and Drink,1 action,1
+Ray of Sickness,1 action,1
+Sanctuary,1 bonus action,1
+Searing Smite,1 bonus action,1
+Shield,1 reaction,1
+Shield of Faith,1 bonus action,1
+Silent Image,1 action,1
+Sleep,1 action,1
+Speak with Animals,1 action,1
+Tasha's Hideous Laughter,1 action,1
+Tenser's Floating Disk,1 action,1
+Thunderous Smite,1 bonus action,1
+Thunderwave,1 action,1
+Unseen Servant,1 action,1
+Witch Bolt,1 action,1
+Wrathful Smite,1 bonus action,1
+Aganazzar's Scorcher,1 action,2
+Aid,1 action,2
+Alter Self,1 action,2
+Animal Messenger,1 action,2
+Arcane Lock,1 action,2
+Augury,1 minute,2
+Barkskin,1 action,2
+Beast Sense,1 action,2
+Blindness/Deafness,1 action,2
+Blur,1 action,2
+Branding Smite,1 bonus action,2
+Calm Emotions,1 action,2
+Cloud of Daggers,1 action,2
+Continual Flame,1 action,2
+Cordon of Arrows,1 action,2
+Crown of Madness,1 action,2
+Darkness,1 action,2
+Darkvision,1 action,2
+Detect Thoughts,1 action,2
+Dust Devil,1 action,2
+Earthbind,1 action,2
+Enhance Ability,1 action,2
+Enlarge/Reduce,1 action,2
+Enthrall,1 action,2
+Find Steed,10 minutes,2
+Find Traps,1 action,2
+Flame Blade,1 bonus action,2
+Flaming Sphere,1 action,2
+Gentle Repose,1 action,2
+Gust of Wind,1 action,2
+Heat Metal,1 action,2
+Hold Person,1 action,2
+Invisibility,1 action,2
+Knock,1 action,2
+Lesser Restoration,1 action,2
+Levitate,1 action,2
+Locate Animals or Plants,1 action,2
+Locate Object,1 action,2
+Magic Mouth,1 minute,2
+Magic Weapon,1 bonus action,2
+Maximilian's Earthen Grasp,1 action,2
+Melf's Acid Arrow,1 action,2
+Mirror Image,1 action,2
+Misty Step,1 bonus action,2
+Moonbeam,1 action,2
+Nystul's Magic Aura,1 action,2
+Pass without Trace,1 action,2
+Phantasmal Force,1 action,2
+Prayer of Healing,10 minutes,2
+Protection from Poison,1 action,2
+Pyrotechnics,1 action,2
+Ray of Enfeeblement,1 action,2
+Rope Trick,1 action,2
+Scorching Ray,1 action,2
+See Invisibility,1 action,2
+Shatter,1 action,2
+Silence,1 action,2
+Skywrite,1 action,2
+Snilloc's Snowball Swarm,1 action,2
+Spider Climb,1 action,2
+Spike Growth,1 action,2
+Spiritual Weapon,1 bonus action,2
+Suggestion,1 action,2
+Warding Bond,1 action,2
+Warding Wind,1 action,2
+Web,1 action,2
+Zone of Truth,1 action,2
+Animate Dead,1 minute,3
+Aura of Vitality,1 action,3
+Beacon of Hope,1 action,3
+Bestow Curse,1 action,3
+Blinding Smite,1 bonus action,3
+Blink,1 action,3
+Call Lightning,1 action,3
+Clairvoyance,10 minutes,3
+Conjure Animals,1 action,3
+Conjure Barrage,1 action,3
+Counterspell,1 reaction,3
+Create Food and Water,1 action,3
+Crusader's Mantle,1 action,3
+Daylight,1 action,3
+Dispel Magic,1 action,3
+Elemental Weapon,1 action,3
+Erupting Earth,1 action,3
+Fear,1 action,3
+Feign Death,1 action,3
+Fireball,1 action,3
+Flame Arrows,1 action,3
+Fly,1 action,3
+Gaseous Form,1 action,3
+Glyph of Warding,1 hour,3
+Haste,1 action,3
+Hunger of Hadar,1 action,3
+Hypnotic Pattern,1 action,3
+Leomund's Tiny Hut,1 minute,3
+Lightning Arrow,1 bonus action,3
+Lightning Bolt,1 action,3
+Magic Circle,1 minute,3
+Major Image,1 action,3
+Mass Healing Word,1 bonus action,3
+Meld into Stone,1 action,3
+Melf's Minute Meteors,1 action,3
+Nondetection,1 action,3
+Phantom Steed,1 minute,3
+Plant Growth,1 action,3
+Protection from Energy,1 action,3
+Remove Curse,1 action,3
+Revivify,1 action,3
+Sending,1 action,3
+Sleet Storm,1 action,3
+Slow,1 action,3
+Speak with Dead,1 action,3
+Speak with Plants,1 action,3
+Spirit Guardians,1 action,3
+Stinking Cloud,1 action,3
+Tidal Wave,1 action,3
+Tongues,1 action,3
+Vampiric Touch,1 action,3
+Wall of Sand,1 action,3
+Wall of Water,1 action,3
+Water Breathing,1 action,3
+Water Walk,1 action,3
+Wind Wall,1 action,3
+Arcane Eye,1 action,4
+Aura of Life,1 action,4
+Aura of Purity,1 action,4
+Banishment,1 action,4
+Blight,1 action,4
+Compulsion,1 action,4
+Confusion,1 action,4
+Conjure Minor Elementals,1 minute,4
+Conjure Woodland Beings,1 action,4
+Control Water,1 action,4
+Death Ward,1 action,4
+Dimension Door,1 action,4
+Divination,1 action,4
+Dominate Beast,1 action,4
+Elemental Bane,1 action,4
+Evard's Black Tentacles,1 action,4
+Fabricate,10 minutes,4
+Fire Shield,1 action,4
+Freedom of Movement,1 action,4
+Giant Insect,1 action,4
+Grasping Vine,1 bonus action,4
+Greater Invisibility,1 action,4
+Guardian of Faith,1 action,4
+Hallucinatory Terrain,10 minutes,4
+Ice Storm,1 action,4
+Leomund's Secret Chest,1 action,4
+Locate Creature,1 action,4
+Mordenkainen's Faithful Hound,1 action,4
+Mordenkainen's Private Sanctum,10 minutes,4
+Otiluke's Resilient Sphere,1 action,4
+Phantasmal Killer,1 action,4
+Polymorph,1 action,4
+Staggering Smite,1 bonus action,4
+Stone Shape,1 action,4
+Stoneskin,1 action,4
+Storm Sphere,1 action,4
+Vitriolic Sphere,1 action,4
+Wall of Fire,1 action,4
+Watery Sphere,1 action,4
+Animate Objects,1 action,5
+Antilife Shell,1 action,5
+Awaken,8 hours,5
+Banishing Smite,1 bonus action,5
+Bigby's Hand,1 action,5
+Circle of Power,1 action,5
+Cloudkill,1 action,5
+Commune,1 minute,5
+Commune with Nature,1 minute,5
+Cone of Cold,1 action,5
+Conjure Elemental,1 minute,5
+Conjure Volley,1 action,5
+Contact Other Plane,1 minute,5
+Contagion,1 action,5
+Control Winds,1 action,5
+Creation,1 minute,5
+Destructive Smite,1 action,5
+Dispel Evil and Good,1 action,5
+Dominate Person,1 action,5
+Dream,1 minute,5
+Flame Strike,1 action,5
+Geas,1 minute,5
+Greater Restoration,1 action,5
+Hallow,24 hours,5
+Hold Monster,1 action,5
+Immolation,1 action,5
+Insect Plague,1 action,5
+Legend Lore,10 minutes,5
+Maelstrom,1 action,5
+Mass Cure Wounds,1 action,5
+Mislead,1 action,5
+Modify Memory,1 action,5
+Passwall,1 action,5
+Planar Binding,1 hour,5
+Raise Dead,1 hour,5
+Rary's Telepathic Bond,1 action,5
+Reincarnate,1 hour,5
+Scrying,10 minutes,5
+Seeming,1 action,5
+Swift Quiver,1 bonus action,5
+Telekinesis,1 action,5
+Teleportation Circle,1 minute,5
+Transmute Rock,1 action,5
+Tree Stride,1 action,5
+Wall of Force,1 action,5
+Wall of Stone,1 action,5
+Arcane Gate,1 action,6
+Blade Barrier,1 action,6
+Bones of the Earth,1 action,6
+Chain Lightning,1 action,6
+Circle of Death,1 action,6
+Conjure Fey,1 minute,6
+Contingency,10 minutes,6
+Create Undead,1 minute,6
+Disintegrate,1 action,6
+Drawmij's Instant Summons,1 minute,6
+Eyebite,1 action,6
+Find the Path,1 minute,6
+Flesh to Stone,1 action,6
+Forbiddance,10 minutes,6
+Globe of Invulnerability,1 action,6
+Guards and Wards,10 minutes,6
+Harm,1 action,6
+Heal,1 action,6
+Heroes' Feast,10 minutes,6
+Investiture of Flame,1 action,6
+Investiture of Ice,1 action,6
+Investiture of Stone,1 action,6
+Investiture of Wind,1 action,6
+Magic Jar,1 minute,6
+Mass Suggestion,1 action,6
+Move Earth,1 action,6
+Otiluke's Freezing Sphere,1 action,6
+Otto's Irresistible Dance,1 action,6
+Planar Ally,10 minutes,6
+Primordial Ward,1 action,6
+Programmed Illusion,1 action,6
+Sunbeam,1 action,6
+Transport via Plants,1 action,6
+True Seeing,1 action,6
+Wall of Ice,1 action,6
+Wall of Thorns,1 action,6
+Wind Walk,1 minute,6
+Word of Recall,1 action,6
+Conjure Celestial,1 minute,7
+Delayed Blast Fireball,1 action,7
+Divine Word,1 bonus action,7
+Etherealness,1 action,7
+Finger of Death,1 action,7
+Fire Storm,1 action,7
+Forcecage,1 action,7
+Mirage Arcane,10 minutes,7
+Mordenkainen's Magnificent Mansion,1 minute,7
+Mordenkainen's Sword,1 action,7
+Plane Shift,1 action,7
+Prismatic Spray,1 action,7
+Project Image,1 action,7
+Regenerate,1 minute,7
+Resurrection,1 hour,7
+Reverse Gravity,1 action,7
+Sequester,1 action,7
+Simulacrum,12 hours,7
+Symbol,1 minute,7
+Teleport,1 action,7
+Whirlwind,1 action,7
+Abi-Dalzim's Horrid Wilting,1 action,8
+Animal Shapes,1 action,8
+Antimagic Field,1 action,8
+Antipathy/Sympathy,1 hour,8
+Clone,1 hour,8
+Control Weather,10 minutes,8
+Demiplane,1 action,8
+Dominate Monster,1 action,8
+Earthquake,1 action,8
+Feeblemind,1 action,8
+Glibness,1 action,8
+Holy Aura,1 action,8
+Incendiary Cloud,1 action,8
+Maze,1 action,8
+Mind Blank,1 action,8
+Power Word Stun,1 action,8
+Sunburst,1 action,8
+Telepathy,1 action,8
+Tsunami,1 minute,8
+Astral Projection,1 hour,9
+Foresight,1 minute,9
+Gate,1 action,9
+Imprisonment,1 minute,9
+Mass Heal,1 action,9
+Meteor Swarm,1 action,9
+Power Word Heal,1 action,9
+Power Word Kill,1 action,9
+Prismatic Wall,1 action,9
+Shapechange,1 action,9
+Storm of Vengeance,1 action,9
+Time Stop,1 action,9
+True Polymorph,1 action,9
+True Resurrection,1 hour,9
+Weird,1 action,9
+Wish,1 action,9

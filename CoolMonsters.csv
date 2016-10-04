@@ -1,0 +1,426 @@
+ANKHEG,FOREST,2
+AZER,VOLCANO,2
+SPINED DEVIL,ANYWHERE,2
+ALLOSAUR,JUNGLE,2
+DISPLACER BEAST,FOREST,3
+DOPPELGANGER,ANYWHERE,3
+GARGOYLE,CITY,2
+GHAST,ANYWHERE,2
+GHOUL,ANYWHERE,1
+GNOLL,FOREST,1
+GNOLL PACK LORD,FOREST,2
+GNOLL FANG OF YEENOGHU,FOREST,4
+GOBLIN,ANYWHERE,1
+GOBLIN BOSS,ANYWHERE,1
+GRIFFON,MOUNTAIN,2
+GRIMLOCK,CAVE,1
+GREEN HAG,SWAMP,3
+SEA HAG,SEA,2
+HARPY,MOUNTAIN,1
+HELL HOUND,DUNGEON,3
+HIPPOGRIFF,MOUNTAIN,1
+HOBGOBLIN,CAVE,1
+HOBGOBLIN CAPTAIN,CAVE,3
+JACKALWERE,DESERT,1
+KENKU,MOUNTAIN,1
+LIZARDFOLK,JUNGLE,1
+LIZARDFOLK SHAMAN,JUNGLE,2
+LIZARDFOLK KING/QUEEN,JUNGLE,4
+WEREBOAR,FOREST,4
+WERERAT,CITY,2
+WERETIGER,JUNGLE,4
+WEREWOLF,FOREST,3
+MAGMIN,VOLCANO,1
+MEPHIT,ANYWHERE,1
+MANTICORE,DUNGEON,3
+MERFOLK,SEA,1
+MERROW,SEA,2
+MUMMY,DESERT,3
+MYCONID ADULT,SWAMP,1
+MYCONID SOVEREIGN,SWAMP,2
+NIGHTMARE,VOLCANO,3
+OGRE,HILL,2
+ORC,MOUNTAIN,1
+ORC WAR CHIEF,MOUNTAIN,4
+ORC EYE OF GRUUMSH,MOUNTAIN,2
+OROG,MOUNTAIN,2
+OWLBEAR,FOREST,3
+PEGASUS,ANYWHERE,2
+PERYTON,FOREST,2
+PIXIE,FOREST,1
+SAHUAGIN,SEA,1
+SAHUAGIN PRIESTESS,SEA,2
+FIRE SNAKE,VOLCANO,1
+SALAMANDER,VOLCANO,5
+SCARECROW,ANYWHERE,1
+SHADOW,ANYWHERE,1
+SHAMBLING MOUND,SWAMP,5
+SKELETON,DUNGEON,1
+MINOTAUR SKELETON,DUNGEON,2
+WARHORSE SKELETON,DUNGEON,1
+SPECTER,ANYWHERE,1
+SPRITE,FOREST,1
+THRI-KREEN,DESERT,1
+WATER WEIRD,SEA,3
+WIGHT,TUNDRA,3
+YETI,MOUNTAIN,3
+ZOMBIE,ANYWHERE,1
+OGRE ZOMBIE,HILL,2
+APE,JUNGLE,1
+BLACK BEAR,FOREST,1
+BLINK DOG,DUNGEON,1
+BROWN BEAR,MOUNTAIN,1
+CAMEL,DESERT,1
+CONSTRICTOR SNAKE,JUNGLE,1
+CROCODILE,SWAMP,1
+DEATH DOG,DUNGEON,1
+DEER,ANYWHERE,1
+DIRE WOLF,TUNDRA,1
+EAGLE,MOUNTAIN,1
+ELEPHANT,DESERT,4
+ELK,MOUNTAIN,1
+Death Dog,DESERT,1
+Giant Hyena,DESERT,1
+Giant Spider,DESERT,1
+Giant Toad,DESERT,1
+Giant Vulture,DESERT,1
+Half-ogre,DESERT,1
+Lion,DESERT,1
+Thri-kreen,DESERT,1
+Yuan-ti Pureblood,DESERT,1
+Giant Constrictor Snake,DESERT,2
+Gnoll Pack Lord,DESERT,2
+Ogre,DESERT,2
+Giant Scorpion,DESERT,3
+Hobgoblin Captain,DESERT,3
+Mummy,DESERT,3
+Phase Spider,DESERT,3
+Wight,DESERT,3
+Yuan-ti Malison,DESERT,3
+Couatl,DESERT,4
+Gnoll Fang of Yeenoghu,DESERT,4
+Lamia,DESERT,4
+Weretiger,DESERT,4
+Air Elemental,DESERT,5
+Fire Elemental,DESERT,5
+Revenant,DESERT,5
+Cyclops,DESERT,6
+Hobgoblin Warlord,DESERT,6
+Medusa,DESERT,6
+Young Brass Dragon,DESERT,6
+Yuan-ti Abomination,DESERT,7
+Young Blue Dragon,DESERT,9
+Guardian Naga,DESERT,10
+Efreeti,DESERT,11
+Gynosphinx,DESERT,11
+Roc,DESERT,11
+Adult Brass Dragon,DESERT,13
+Mummy Lord,DESERT,15
+Purple Worm,DESERT,15
+Adult Blue Dragon,DESERT,16
+Adult Blue Dracolich,DESERT,17
+Androsphinx,DESERT,17
+Ancient Brass Dragon,DESERT,20
+Ancient Blue Dragon,DESERT,23
+Brown Bear,TUNDRA,1
+Half-ogre,TUNDRA,1
+Griffon,TUNDRA,2
+Ogre,TUNDRA,2
+Orc Eye of Gruumsh,TUNDRA,2
+Orog,TUNDRA,2
+Polar Bear,TUNDRA,2
+Saber-toothed Tiger,TUNDRA,2
+Manticore,TUNDRA,3
+Winter Wolf,TUNDRA,3
+Yeti,TUNDRA,3
+Revenant,TUNDRA,5
+Troll,TUNDRA,5
+Werebear,TUNDRA,5
+Young Remorhaz,TUNDRA,5
+Mammoth,TUNDRA,6
+Young White Dragon,TUNDRA,6
+Frost Giant,TUNDRA,8
+Abominable Yeti,TUNDRA,9
+Remorhaz,TUNDRA,11
+Roc,TUNDRA,11
+Adult White Dragon,TUNDRA,13
+Ancient White Dragon,TUNDRA,20
+Giant Eagle,SEA,1
+Giant Toad,SEA,1
+Harpy,SEA,1
+Griffon,SEA,2
+Merrow,SEA,2
+Ogre,SEA,2
+Plesiosaurus,SEA,2
+Sahuagin Priestess,SEA,2
+Sea Hag,SEA,2
+Manticore,SEA,3
+Banshee,SEA,4
+Sahuagin Baron,SEA,5
+Water Elemental,SEA,5
+Cyclops,SEA,6
+Young Bronze Dragon,SEA,8
+Young Blue Dragon,SEA,9
+Djinni,SEA,11
+Marid,SEA,11
+Roc,SEA,11
+Storm Giant,SEA,13
+Adult Bronze Dragon,SEA,15
+Adult Blue Dragon,SEA,16
+Dragon Turtle,SEA,17
+Ancient Bronze Dragon,SEA,22
+Ancient Blue Dragon,SEA,23
+Brown Bear,FOREST,1
+Bugbear,FOREST,1
+Dire Wolf,FOREST,1
+Dryad,FOREST,1
+Giant Hyena,FOREST,1
+Giant Spider,FOREST,1
+Giant Toad,FOREST,1
+Goblin Boss,FOREST,1
+Half-ogre,FOREST,1
+Harpy,FOREST,1
+Tiger,FOREST,1
+Young Faerie Dragon,FOREST,1
+Yuan-ti Pureblood,FOREST,1
+Adult Faerie Dragon,FOREST,2
+Ankheg,FOREST,2
+Awakened Tree,FOREST,2
+Centaur,FOREST,2
+Ettercap,FOREST,2
+Giant Boar,FOREST,2
+Giant Constrictor Snake,FOREST,2
+Giant Elk,FOREST,2
+Gnoll Pack Lord,FOREST,2
+Grick,FOREST,2
+Lizardfolk Shaman,FOREST,2
+Ogre,FOREST,2
+Orc Eye of Gruumsh,FOREST,2
+Orog,FOREST,2
+Pegasus,FOREST,2
+Swarm of Poisonous Snakes,FOREST,2
+Wererat,FOREST,2
+Will-o-wisp,FOREST,2
+Displacer Beast,FOREST,3
+Green Hag,FOREST,3
+Hobgoblin Captain,FOREST,3
+Owlbear,FOREST,3
+Phase Spider,FOREST,3
+Werewolf,FOREST,3
+Yuan-ti Malison,FOREST,3
+Banshee,FOREST,4
+Couatl,FOREST,4
+Gnoll Fang of Yeenoghu,FOREST,4
+Wereboar,FOREST,4
+Weretiger,FOREST,4
+Gorgon,FOREST,5
+Revenant,FOREST,5
+Shambling Mound,FOREST,5
+Troll,FOREST,5
+Unicorn,FOREST,5
+Werebear,FOREST,5
+Hobgoblin Warlord,FOREST,6
+Giant Ape,FOREST,7
+Grick Alpha,FOREST,7
+Oni,FOREST,7
+Yuan-ti Abomination,FOREST,7
+Young Green Dragon,FOREST,8
+Treant,FOREST,9
+Guardian Naga,FOREST,10
+Young Gold Dragon,FOREST,10
+Adult Green Dragon,FOREST,15
+Adult Gold Dragon,FOREST,17
+Ancient Green Dragon,FOREST,22
+Ancient Gold Dragon,FOREST,24
+Bugbear,GRASSLAND,1
+Giant Eagle,GRASSLAND,1
+Giant Hyena,GRASSLAND,1
+Giant Vulture,GRASSLAND,1
+Goblin Boss,GRASSLAND,1
+Hippogriff,GRASSLAND,1
+Lion,GRASSLAND,1
+Scarecrow,GRASSLAND,1
+Thri-kreen,GRASSLAND,1
+Tiger,GRASSLAND,1
+Allosaurus,GRASSLAND,2
+Ankheg,GRASSLAND,2
+Centaur,GRASSLAND,2
+Giant Boar,GRASSLAND,2
+Giant Elk,GRASSLAND,2
+Gnoll Pack Lord,GRASSLAND,2
+Griffon,GRASSLAND,2
+Ogre,GRASSLAND,2
+Orc Eye of Gruumsh,GRASSLAND,2
+Orog,GRASSLAND,2
+Pegasus,GRASSLAND,2
+Rhinoceros,GRASSLAND,2
+Ankylosaurus,GRASSLAND,3
+Hobgoblin Captain,GRASSLAND,3
+Manticore,GRASSLAND,3
+Phase Spider,GRASSLAND,3
+Couatl,GRASSLAND,4
+Elephant,GRASSLAND,4
+Gnoll Fang of Yeenoghu,GRASSLAND,4
+Wereboar,GRASSLAND,4
+Weretiger,GRASSLAND,4
+Bulette,GRASSLAND,5
+Gorgon,GRASSLAND,5
+Triceratops,GRASSLAND,5
+Chimera,GRASSLAND,6
+Cyclops,GRASSLAND,6
+Hobgoblin Warlord,GRASSLAND,6
+Tyrannosaurus Rex,GRASSLAND,8
+Young Gold Dragon,GRASSLAND,10
+Adult Gold Dragon,GRASSLAND,17
+Ancient Gold Dragon,GRASSLAND,24
+Brown Bear,HILL,1
+Dire Wolf,HILL,1
+Giant Eagle,HILL,1
+Giant Hyena,HILL,1
+Goblin Boss,HILL,1
+Half-ogre,HILL,1
+Harpy,HILL,1
+Hippogriff,HILL,1
+Lion,HILL,1
+Giant Boar,HILL,2
+Giant Elk,HILL,2
+Gnoll Pack Lord,HILL,2
+Griffon,HILL,2
+Ogre,HILL,2
+Orc Eye of Gruumsh,HILL,2
+Orog,HILL,2
+Pegasus,HILL,2
+Peryton,HILL,2
+Green Hag,HILL,3
+Hobgoblin Captain,HILL,3
+Manticore,HILL,3
+Phase Spider,HILL,3
+Werewolf,HILL,3
+Ettin,HILL,4
+Gnoll Fang of Yeenoghu,HILL,4
+Wereboar,HILL,4
+Bulette,HILL,5
+Gorgon,HILL,5
+Hill Giant,HILL,5
+Revenant,HILL,5
+Troll,HILL,5
+Werebear,HILL,5
+Chimera,HILL,6
+Cyclops,HILL,6
+Galeb Duhr,HILL,6
+Hobgoblin Warlord,HILL,6
+Wyvern,HILL,6
+Stone Giant,HILL,7
+Young Copper Dragon,HILL,7
+Young Red Dragon,HILL,10
+Roc,HILL,11
+Adult Copper Dragon,HILL,14
+Adult Red Dragon,HILL,17
+Ancient Copper Dragon,HILL,21
+Ancient Red Dragon,HILL,24
+Giant Eagle,MOUNTAIN,1
+Half-ogre,MOUNTAIN,1
+Harpy,MOUNTAIN,1
+Hippogriff,MOUNTAIN,1
+Lion,MOUNTAIN,1
+Giant Elk,MOUNTAIN,2
+Griffon,MOUNTAIN,2
+Ogre,MOUNTAIN,2
+Orc Eye of Gruumsh,MOUNTAIN,2
+Orog,MOUNTAIN,2
+Peryton,MOUNTAIN,2
+Saber-toothed Tiger,MOUNTAIN,2
+Basilisk,MOUNTAIN,3
+Hell Hound,MOUNTAIN,3
+Manticore,MOUNTAIN,3
+Ettin,MOUNTAIN,4
+Air Elemental,MOUNTAIN,5
+Bulette,MOUNTAIN,5
+Troll,MOUNTAIN,5
+Chimera,MOUNTAIN,6
+Cyclops,MOUNTAIN,6
+Galeb Duhr,MOUNTAIN,6
+Wyvern,MOUNTAIN,6
+Stone Giant,MOUNTAIN,7
+Frost Giant,MOUNTAIN,8
+Cloud Giant,MOUNTAIN,9
+Fire Giant,MOUNTAIN,9
+Young Silver Dragon,MOUNTAIN,9
+Young Red Dragon,MOUNTAIN,10
+Roc,MOUNTAIN,11
+Adult Silver Dragon,MOUNTAIN,16
+Adult Red Dragon,MOUNTAIN,17
+Ancient Silver Dragon,MOUNTAIN,23
+Ancient Red Dragon,MOUNTAIN,24
+Ghoul,SWAMP,1
+Giant Spider,SWAMP,1
+Giant Toad,SWAMP,1
+Yuan-ti Pureblood,SWAMP,1
+Ghast,SWAMP,2
+Giant Constrictor Snake,SWAMP,2
+Lizardfolk Shaman,SWAMP,2
+Ogre,SWAMP,2
+Orc Eye of Gruumsh,SWAMP,2
+Swarm of Poisonous Snakes,SWAMP,2
+Will-o-wisp,SWAMP,2
+Green Hag,SWAMP,3
+Wight,SWAMP,3
+Yuan-ti Malison,SWAMP,3
+Giant Crocodile,SWAMP,5
+Revenant,SWAMP,5
+Shambling Mound,SWAMP,5
+Troll,SWAMP,5
+Water Elemental,SWAMP,5
+Young Black Dragon,SWAMP,7
+Yuan-ti Abomination,SWAMP,7
+Hydra,SWAMP,8
+Adult Black Dragon,SWAMP,14
+Ancient Black Dragon,SWAMP,21
+Giant Octopus,SEA,1
+Swarm of Quippers,SEA,1
+Giant Constrictor Snake,SEA,2
+Hunter Shark,SEA,2
+Merrow,SEA,2
+Plesiosaurus,SEA,2
+Sahuagin Priestess,SEA,2
+Sea Hag,SEA,2
+Killer Whale,SEA,3
+Giant Shark,SEA,5
+Sahuagin Baron,SEA,5
+Water Elemental,SEA,5
+Marid,SEA,11
+Dragon Turtle,SEA,17
+Kraken,SEA,23
+Ghoul,CITY,1
+Giant Spider,CITY,1
+Half-ogre,CITY,1
+Specter,CITY,1
+Yuan-ti Pureblood,CITY,1
+Gargoyle,CITY,2
+Ghast,CITY,2
+Mimic,CITY,2
+Wererat,CITY,2
+Will-o-wisp,CITY,2
+Doppelganger,CITY,3
+Phase Spider,CITY,3
+Water Weird,CITY,3
+Wight,CITY,3
+Couatl,CITY,4
+Ghost,CITY,4
+Incubus,CITY,4
+Succubus,CITY,4
+Cambion,CITY,5
+Revenant,CITY,5
+Vampire Spawn,CITY,5
+Invisible Stalker,CITY,6
+Oni,CITY,7
+Shield Guardian,CITY,7
+Gray Slaad,CITY,9
+Young Silver Dragon,CITY,9
+Rakshasa,CITY,13
+Vampire,CITY,13
+Vampire (spellcaster),CITY,15
+Vampire (warrior),CITY,15
+Adult Silver Dragon,CITY,16
+Ancient Silver Dragon,CITY,23
+Tarrasque,CITY,30
